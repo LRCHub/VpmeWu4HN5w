@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホワット・イフ",
+  "base_artist": "NE-YO",
+  "createdAt": "2026-02-07T11:01:21.341865Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What If",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_What_If_Ne-Yo.txt"
+    }
+  ]
+}
